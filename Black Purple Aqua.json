@@ -22,11 +22,11 @@
         "timeline-highlights-color": "#252525",
         "reaction-row-button-selected-bg-color": "#4695f7",
         
-        "reaction-row-button-selected-bg-color": "#4752c4",
-        "menu-selected-color": "#4752c4",
-        "focus-bg-color": "#4752c4",
-        "room-highlight-color": "#4752c4",
-        "other-user-pill-bg-color": "#4752c4",
-        "togglesw-off-color": "#72767d"
+        "reaction-row-button-selected-bg-color": "#855EDF",
+        "menu-selected-color": "#855EDF",
+        "focus-bg-color": "#855EDF",
+        "room-highlight-color": "#855EDF",
+        "other-user-pill-bg-color": "#855EDF",
+        "togglesw-off-color": "#855EDF"
     }
 }
