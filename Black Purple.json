@@ -2,9 +2,9 @@
     "name": "Black Purple Aqua",
     "is_dark": true,
     "colors": {
-        "accent-color": "#583e93",
-        "accent": "#583e93",
-        "primary-color": "#583e93",
+        "accent-color": "#855EDF",
+        "accent": "#855EDF",
+        "primary-color": "#855EDF",
         "warning-color": "#ed4a46",
 
         "sidebar-color": "#181818",
