@@ -22,7 +22,7 @@
         "timeline-highlights-color": "#252525",
         "reaction-row-button-selected-bg-color": "#4695f7",
         
-        "reaction-row-button-selected-bg-color": "#855EDF",
+        "reaction-row-button-selected-bg-color": "#855EDF54",
         "menu-selected-color": "#855EDF",
         "focus-bg-color": "#855EDF",
         "room-highlight-color": "#855EDF",
