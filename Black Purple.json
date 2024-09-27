@@ -1,5 +1,5 @@
 {
-    "name": "Black Purple Aqua",
+    "name": "Black Purple Aqua 2",
     "is_dark": true,
     "colors": {
         "accent-color": "#855EDF",
@@ -21,5 +21,12 @@
         "timeline-text-secondary-color": "#777777",
         "timeline-highlights-color": "#252525",
         "reaction-row-button-selected-bg-color": "#4695f7"
+        
+        "reaction-row-button-selected-bg-color": "#4752c4",
+        "menu-selected-color": "#4752c4",
+        "focus-bg-color": "#4752c4",
+        "room-highlight-color": "#4752c4",
+        "other-user-pill-bg-color": "#4752c4",
+        "togglesw-off-color": "#72767d"
     }
 }
