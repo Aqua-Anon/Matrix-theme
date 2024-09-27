@@ -11,7 +11,7 @@
         "roomlist-background-color": "#252525",
         "roomlist-text-color": "#ffffff",
         "roomlist-text-secondary-color": "#b9b9b9",
-        "roomlist-highlights-color": "#855EDF",
+        "roomlist-highlights-color": "#855EDF52",
         "roomlist-separator-color": "#121212",
 
         "timeline-background-color": "#181818",
