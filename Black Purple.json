@@ -1,0 +1,25 @@
+{
+    "name": "Black Purple Aqua",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#583e93",
+        "accent": "#583e93",
+        "primary-color": "#583e93",
+        "warning-color": "#ed4a46",
+
+        "sidebar-color": "#181818",
+        "roomlist-background-color": "#252525",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#b9b9b9",
+        "roomlist-highlights-color": "#3b3b3b",
+        "roomlist-separator-color": "#121212",
+
+        "timeline-background-color": "#181818",
+        "timeline-text-color": "#FFFFFF",
+        "secondary-content": "#FFFFFF",
+        "tertiary-content": "#FFFFFF",
+        "timeline-text-secondary-color": "#777777",
+        "timeline-highlights-color": "#252525",
+        "reaction-row-button-selected-bg-color": "#4695f7"
+    }
+}
